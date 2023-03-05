@@ -1,4 +1,10 @@
-# edtech_Visual_Dscs
+# クラスディスカッショングラフの定量化
+
+<a href="https://github.com/ToyamaLab/edtech_Visual_Dscs/tree/main/4_Kousouryoku%231-7_Chokkei_20230222-2/">クラスディスカッショングラフの定量化結果</a><br>
+
+
+<br><br>
+# クラスディスカッションのグラフ表現
 
 <a href="https://raw.githubusercontent.com/ToyamaLab/edtech_Visual_Dscs/main/Graph_20211229/Graph_20211229_1.jpeg" target="_blank"><img src="https://raw.githubusercontent.com/ToyamaLab/edtech_Visual_Dscs/main/Graph_20211229/Graph_20211229_1.jpeg" width="1200" alt="" border="0"></a><br>
 <a href="https://raw.githubusercontent.com/ToyamaLab/edtech_Visual_Dscs/main/Graph_20211229/Graph_20211229_2.jpeg" target="_blank"><img src="https://raw.githubusercontent.com/ToyamaLab/edtech_Visual_Dscs/main/Graph_20211229/Graph_20211229_2.jpeg" width="1200" alt="" border="0"></a><br>
